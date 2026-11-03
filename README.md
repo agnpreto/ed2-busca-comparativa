@@ -148,17 +148,5 @@ git commit -m "Tarefa 3: insercao e busca na hash"
 git push                                   # envia para o GitHub
 ```
 
-## Critérios de avaliação
-
-| Item | O que é avaliado | Pontos |
-| --- | --- | --- |
-| Tarefa 1 | Inserção e Quicksort corretos, com contagem | 1,5 |
-| Tarefa 2 | Busca binária correta (12.87 com N = 10000) | 1,0 |
-| Tarefa 3 | Hash com encadeamento correta (1.24 com N = 10000), sem vazamento de memória | 2,0 |
-| Tarefa 4 | Árvore-B correta (6.85 com N = 10000) para qualquer t | 2,5 |
-| Relatório | Tabelas dos 4 experimentos e respostas justificadas | 2,0 |
-| GitHub | Commits de todos os integrantes, mensagens claras, README preenchido | 1,0 |
-| Desafio | `arvb_conta_faixa` correta e sem visitar a árvore inteira | +1,0 |
-| **Total** |  | **10,0 (+1,0)** |
 
 O código precisa compilar com `make` sem erros. Trabalho que não compila recebe nota apenas pelo relatório.
