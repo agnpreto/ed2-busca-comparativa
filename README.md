@@ -19,12 +19,12 @@ A secretaria acadêmica tem um cadastro com milhares de alunos e precisa localiz
 
 Vocês vão implementar quatro formas de busca sobre **o mesmo cadastro** e medir quantas comparações cada uma faz:
 
-| Estrutura | Situação | Unidade |
-| --- | --- | --- |
-| Busca sequencial no vetor fora de ordem | **já pronta**, serve de modelo | V |
-| Ordenação (Inserção e Quicksort) + busca binária | vocês implementam | V e VI |
-| Tabela hash com encadeamento | vocês implementam | V |
-| Índice em Árvore-B | vocês implementam | VI |
+| Estrutura | Situação |
+| --- | --- |
+| Busca sequencial no vetor fora de ordem | **já pronta**, serve de modelo |
+| Ordenação (Inserção e Quicksort) + busca binária | vocês implementam |
+| Tabela hash com encadeamento | vocês implementam |
+| Índice em Árvore-B | vocês implementam |
 
 O programa principal (`main.c`) já gera os dados, roda todas as buscas, mede o tempo, conta as comparações e **confere se as respostas de cada estrutura batem com a busca sequencial**.
 
