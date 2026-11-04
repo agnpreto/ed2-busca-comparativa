@@ -8,3 +8,4 @@ Lista das equipes do trabalho. Cada equipe trabalha no **próprio fork** e preen
 | EQUIPE STARK | Kristian Kieling, Nicolas Barros, Rhuan Pessoa (engrhuan2511), Yuri Alexandrino (Yuri-A08), Pedro Henrique | [engrhuan2511/atv_ed2_181126](https://github.com/engrhuan2511/atv_ed2_181126) |
 | Os Yakuza | Mateus Rocha, Ruan Cesar (ruancesarln-cln), Luiz Fernando, Pedro Rennek, Reiner, Luiz Moçambite, Murilo, Lucas de Paula | [ruancesarln-cln/ed2-busca-comparativa](https://github.com/ruancesarln-cln/ed2-busca-comparativa) |
 | Trio Ternura | Yanto Weyckme (YanKinWey), Rigson Yuri (Specter-1610), Saulo Rafael (Saumonkk) | [YanKinWey/ed2-busca-comparativa](https://github.com/YanKinWey/ed2-busca-comparativa) |
+| The Light | Miguel (miguelluzamorim), Sérgio (dinos320), Vinícius (viniciuszzz-lang) | [miguelluzamorim/ed2-busca-comparativa](https://github.com/miguelluzamorim/ed2-busca-comparativa) |
