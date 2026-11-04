@@ -132,12 +132,14 @@ Com tudo funcionando, rodem os experimentos e preencham o arquivo `RELATORIO.md`
 
 ## Entrega no GitHub
 
-1. Aceitem o convite do trabalho (link enviado pelo professor). O GitHub cria um repositório para o grupo, já com estes arquivos.
-2. Cada integrante clona o repositório: `git clone <link-do-repositorio>`.
-3. Dividam as tarefas. **Cada integrante deve ter pelo menos 3 commits** com mensagens claras, por exemplo `Tarefa 3: insercao e busca na hash`.
-4. Preencham a tabela de integrantes no topo deste README e o `RELATORIO.md`.
-5. Não enviem o executável (`comparativo` ou `comparativo.exe`): o `.gitignore` já cuida disso.
-6. Antes do prazo, confiram no site do GitHub se o último commit (`git push`) está lá. Vale o que estiver no repositório até a data de entrega.
+1. **Um** integrante do grupo, logado no GitHub, clica no botão verde **Use this template** (no topo desta página) e depois em **Create a new repository**.
+2. Nome do repositório: `ed2-busca-comparativa-nomedogrupo`. Marque **Private** e clique em **Create repository**. O repositório já nasce com estes arquivos.
+3. No repositório novo, vá em **Settings → Collaborators → Add people** e adicione os colegas de grupo e o professor (**agnpreto**).
+4. Cada integrante aceita o convite (chega por e-mail) e clona o repositório: `git clone <link-do-repositorio-do-grupo>`.
+5. Dividam as tarefas. **Cada integrante deve ter pelo menos 3 commits** com mensagens claras, por exemplo `Tarefa 3: insercao e busca na hash`.
+6. Preencham a tabela de integrantes no topo deste README e o `RELATORIO.md`.
+7. Não enviem o executável (`comparativo` ou `comparativo.exe`): o `.gitignore` já cuida disso.
+8. Antes do prazo, confiram no site do GitHub se o último commit (`git push`) está lá e enviem o link do repositório do grupo ao professor. Vale o que estiver no repositório até a data de entrega.
 
 Comandos do dia a dia:
 
