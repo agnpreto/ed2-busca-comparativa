@@ -1,7 +1,7 @@
 # Trabalho: Comparativo de Estruturas de Busca em C
 
 **Disciplina:** Estrutura de Dados II  
-**Conteúdo:** Unidade V (pesquisa de dados e hashing) e Unidade VI (classificação e Árvore-B)  
+**Conteúdo:** (pesquisa de dados e hashing) e (classificação e Árvore-B)  
 **Grupo:** ### alunos  
 **Prazo:** 18/11/2026
 
