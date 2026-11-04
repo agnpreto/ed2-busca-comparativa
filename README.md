@@ -7,14 +7,14 @@
 
 ## Integrantes
 
-**Nome do time:** Elas e Ele
+**Nome do time:** ____________________
 
 | Nome | Usuário do GitHub |
 | --- | --- |
-| Mateus Batista | Mateuz971 |
-| Raika Maciel | raikamdias-lgtm |
-| Raika Silva | K9s45vhk5p-hub |
-| Victória Batalha | vivibatalha |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
 
 ## O problema
