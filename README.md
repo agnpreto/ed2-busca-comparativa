@@ -2,8 +2,8 @@
 
 **Disciplina:** Estrutura de Dados II  
 **Conteúdo:** Unidade V (pesquisa de dados e hashing) e Unidade VI (classificação e Árvore-B)  
-**Grupo:** até 3 alunos  
-**Prazo:** dd/mm/aaaa
+**Grupo:** ### alunos  
+**Prazo:** 18/11/2026
 
 ## Integrantes
 
