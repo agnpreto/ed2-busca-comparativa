@@ -132,14 +132,16 @@ Com tudo funcionando, rodem os experimentos e preencham o arquivo `RELATORIO.md`
 
 ## Entrega no GitHub
 
-1. **Um** integrante do grupo, logado no GitHub, clica no botão verde **Use this template** (no topo desta página) e depois em **Create a new repository**.
-2. Nome do repositório: `ed2-busca-comparativa-nomedogrupo`. Marque **Private** e clique em **Create repository**. O repositório já nasce com estes arquivos.
-3. No repositório novo, vá em **Settings → Collaborators → Add people** e adicione os colegas de grupo e o professor (**agnpreto**).
-4. Cada integrante aceita o convite (chega por e-mail) e clona o repositório: `git clone <link-do-repositorio-do-grupo>`.
-5. Dividam as tarefas. **Cada integrante deve ter pelo menos 3 commits** com mensagens claras, por exemplo `Tarefa 3: insercao e busca na hash`.
-6. Preencham a tabela de integrantes no topo deste README e o `RELATORIO.md`.
-7. Não enviem o executável (`comparativo` ou `comparativo.exe`): o `.gitignore` já cuida disso.
-8. Antes do prazo, confiram no site do GitHub se o último commit (`git push`) está lá e enviem o link do repositório do grupo ao professor. Vale o que estiver no repositório até a data de entrega.
+A entrega é feita por **Pull Request** neste repositório: cada grupo trabalha em uma cópia (fork) e, no final, envia o trabalho para cá. O professor corrige pelo Pull Request, sem juntar o código de um grupo com o de outro.
+
+1. **Um** integrante, logado no GitHub, clica em **Fork** (canto superior direito desta página) e depois em **Create fork**. O fork é a cópia do grupo.
+2. No fork, vá em **Settings → Collaborators → Add people** e adicione os colegas de grupo.
+3. Cada integrante aceita o convite (chega por e-mail) e clona o fork: `git clone <link-do-fork>`.
+4. Dividam as tarefas. **Cada integrante deve ter pelo menos 3 commits** com mensagens claras, por exemplo `Tarefa 3: insercao e busca na hash`.
+5. Preencham a tabela de integrantes no topo deste README e o `RELATORIO.md`.
+6. Não enviem o executável (`comparativo` ou `comparativo.exe`): o `.gitignore` já cuida disso.
+7. **Para entregar:** no fork, clique em **Contribute → Open pull request**. No título, coloque o nome do grupo e dos integrantes, preencha o modelo que aparece e clique em **Create pull request**.
+8. Abram só **um** Pull Request por grupo. Até o prazo, cada novo `git push` no fork atualiza o mesmo Pull Request automaticamente. Vale o que estiver no Pull Request na data de entrega.
 
 Comandos do dia a dia:
 
