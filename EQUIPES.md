@@ -1,6 +1,6 @@
 # Equipes
 
-Lista das equipes do trabalho (atualizada em 25/11/2026, 07h50). Cada equipe trabalha no **próprio fork** e preenche o nome do time e os integrantes no README **do fork**, não neste repositório.
+Lista das equipes do trabalho (atualizada em 25/11/2026, 17h40). Cada equipe trabalha no **próprio fork** e preenche o nome do time e os integrantes no README **do fork**, não neste repositório.
 
 | Time | Integrantes (usuário do GitHub) | Fork da equipe |
 | --- | --- | --- |
@@ -10,4 +10,4 @@ Lista das equipes do trabalho (atualizada em 25/11/2026, 07h50). Cada equipe tra
 | Trio Ternura | Yanto Weyckme (YanKinWey), Rigson Yuri (Specter-1610), Saulo Rafael (Saumonkk) | [YanKinWey/ed2-busca-comparativa](https://github.com/YanKinWey/ed2-busca-comparativa) |
 | The Light | Miguel (miguelluzamorim), Sérgio (dinos320), Vinícius (viniciuszzz-lang) | [miguelluzamorim/ed2-busca-comparativa](https://github.com/miguelluzamorim/ed2-busca-comparativa) |
 
-Nenhuma equipe abriu Pull Request até agora (prazo 18/11/2026). Em 24 e 25/11 houve commits novos nos forks do Trio Ternura (ordenação e busca binária) e do The Light (`binaria.c`, `hash.c`, `arvoreb.c`, `ordenacao.c`), sem PR.
+Nenhuma equipe abriu Pull Request até agora (prazo 18/11/2026). Em 24 e 25/11 houve commits novos nos forks do Trio Ternura (ordenação e busca binária) e do The Light (`binaria.c`, `hash.c`, `arvoreb.c`, `ordenacao.c`), sem PR. Em 25/11 o Yanto (Trio Ternura, 08h42) implementou a tabela hash (`src/hash.c`) e o Rhuan (EQUIPE STARK, 08h46) atualizou o `RELATORIO.md`, ambos sem PR.
